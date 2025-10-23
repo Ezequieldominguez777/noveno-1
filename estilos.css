@@ -12,4 +12,9 @@ body{
 
 #img1{
   display:flex;
+  position:fixed;
+ }
+
+#tit7{
+  color:#7a7b7d;
 }
